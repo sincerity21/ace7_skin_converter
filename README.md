@@ -33,7 +33,7 @@ The tool uses standard 1-based in-game slot numbers. The internal two-digit inde
 
 ## Prerequisites
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- `UnrealPak.exe` (only needed when extracting/packing `.pak` archives)
+- `UnrealPak.exe` from [UnrealPak Enhanced](https://www.moddb.com/downloads/unrealpak-enhanced) (only needed when extracting/packing `.pak` archives)
 
 ## Cloning & Setup
 ```bash
