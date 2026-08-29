@@ -44,6 +44,8 @@ dotnet build SkinConverterCore
 
 ## Usage
 
+Open a terminal (PowerShell or Command Prompt) in the root folder where you cloned or extracted this repository, then run the commands below.
+
 ### General Syntax
 ```powershell
 dotnet run --project SkinConverterCore -- "<source_pak_or_dir>" <target_slot_number> [output_path] [unrealpak_exe]
