@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / Rider / Cursor
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test datasets and temp files
+*P/
+*test*/
+*Test*/
+*.pak
+*.ubulk
+*.tmp
+*.bak
+*.zip
+*.pdf
+terminals/
+agent-transcripts/
+
+# Research notes (optional / kept local)
+*_OVERVIEW.md
+SKIN_CONVERTER_PROJECT_ANALYSIS.md
