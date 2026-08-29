@@ -13,7 +13,7 @@ A fast, lightweight .NET CLI tool and core library for converting Ace Combat 7 a
 
 ## Skin Slot Mapping
 
-The tool uses standard 1-based in-game slot numbers. The internal two-digit index (`00`–`07`) is handled automatically:
+The tool uses standard 1-based in-game slot numbers. The internal two-digit index is handled automatically:
 
 | Target In-Game Skin | What to Type in CLI | Internal Folder & Asset Index |
 |:---|:---:|:---:|
@@ -25,6 +25,7 @@ The tool uses standard 1-based in-game slot numbers. The internal two-digit inde
 | **Skin 06** (Strider / Trigger) | `6` | `05` |
 | **Skin 07** (Special Skin / DLC 1) | `7` | `06` |
 | **Skin 08** (Special Skin / DLC 2) | `8` | `07` |
+| **Skin 09+** (Extended / Custom Slots) | `9`, `10`, etc... | `08`, `09`, etc... |
 
 ---
 
