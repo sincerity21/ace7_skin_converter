@@ -3,6 +3,8 @@ bin/
 obj/
 [Bb]in/
 [Oo]bj/
+publish/
+[Pp]ublish/
 
 # Visual Studio / Rider / Cursor
 .vs/
@@ -28,3 +30,4 @@ agent-transcripts/
 # Research notes (optional / kept local)
 *_OVERVIEW.md
 SKIN_CONVERTER_PROJECT_ANALYSIS.md
+(ASS_Downloads)/
